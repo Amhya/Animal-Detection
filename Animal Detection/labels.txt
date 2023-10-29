@@ -1,0 +1,6 @@
+0 Hedgehog
+1 Sea Otter
+2 Cat
+3 Dog
+4 Panda
+5 Class 6
